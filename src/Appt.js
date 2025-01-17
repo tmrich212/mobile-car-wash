@@ -4,12 +4,11 @@ import React from 'react';
 function Appt() {
     return (
         <div className='services'>
-            <h1>Services Center</h1>
+            <h1>Services By Appointment</h1>
 
             <div className='interior express'>
-                <h2>Interior Detailing</h2>
                 
-                <div className='exp-container '>
+                <div className='exp-container'>
                     <div className='interior' id="service">
                         <h2>Interior Detail</h2> 
                         <ul>
@@ -36,6 +35,9 @@ function Appt() {
                     </div>
                 </div>
             </div>
+
+            <h2>Complete Detail</h2>
+            <h2>$450.00</h2>
         </div>
     )
 }
