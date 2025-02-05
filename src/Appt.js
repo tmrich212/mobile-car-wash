@@ -18,7 +18,7 @@ function Appt() {
                             <li>Leather Seats Cleaned/Treated</li>
                             <li>Door Jambs Cleaned</li>
                         </ul>
-                        <h3 class="price">$250.00</h3>
+                        <h3 class="price"><b>$250.00</b></h3>
                     </div>
 
                     <div className='exterior' id="service">
@@ -31,7 +31,7 @@ function Appt() {
                             <li>Wheel Wells Cleaned</li>
                         </ul>
 
-                        <h3 class="price">$250.00</h3>
+                        <h3 class="price"><b>$250.00</b></h3>
                     </div>
                 </div>
             </div>

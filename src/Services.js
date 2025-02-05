@@ -9,25 +9,25 @@ function Services () {
             <div className='interior express'>
                 <h2>Express Detailing</h2>
                 <h3>No Appointment Necessary! We do it while you wait.</h3> 
-                <h3>(Most services take 20 minutes)</h3>
+                <h3 className="time">(Most services take 20 minutes)</h3>
                 
                 <div className='container'>
                     <div className='interior' id="service">
                         <h2>Express Interior</h2> 
                         <ul>
-                            <li>Upholstry Shampoo   $100</li>
-                            <li>Leather Conditioning  $100</li>
-                            <li>Carpet Shampoo   $100</li>
-                            <li>Dash Console Panels   $100</li>
+                            <li>Upholstry Shampoo   <b>$100</b></li>
+                            <li>Leather Conditioning  <b>$100</b></li>
+                            <li>Carpet Shampoo   <b>$100</b></li>
+                            <li>Dash Console Panels   <b>$100</b></li>
                         </ul>
                     </div>
 
                     <div className='exterior' id="service">
                         <h2>Express Exterior</h2> 
                         <ul>
-                            <li>Hand Wax   $100</li>
-                            <li>Clay Wax  $150</li>
-                            <li>Headlight   $75</li>
+                            <li>Hand Wax   <b>$100</b></li>
+                            <li>Clay Wax  <b>$150</b></li>
+                            <li>Headlight   <b>$75</b></li>
                         </ul>
                     </div>
                 </div>

@@ -18,3 +18,11 @@ h2 {
     padding: 10px;
     color: whitesmoke;
 }
+
+.message {
+    width: 30%;
+}
+
+input .email {
+    width: 30%;
+}
