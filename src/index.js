@@ -6,6 +6,8 @@ import reportWebVitals from './reportWebVitals';
 import Header from './Header';
 import Services from './Services';
 import Appt from './Appt';
+import Contact from './Contact';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,6 +16,7 @@ root.render(
     <App />
     <Appt />
     <Services />
+    <Contact />
   </React.StrictMode>
 );
 

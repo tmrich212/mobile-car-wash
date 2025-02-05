@@ -1,10 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Bebas+Neue&family=Permanent+Marker&family=Syne:wght@400..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
 
 .services {
-    font-family: "Bebas Neue", serif;
-    padding: 50px 10%;
+    font-family: "Syne", serif;
+    padding: 3% 10%;
     text-align: center;
-    height: auto;
+    /* height: auto; */
     background-color: rgb(240, 240, 240);
     letter-spacing: 1px;
 }
@@ -14,6 +20,7 @@
     font-size: xx-large;
     text-align: center;
     text-transform: uppercase;
+    padding: 3%;
 }
 
 .services h2 {
@@ -22,17 +29,14 @@
     text-transform: uppercase;
 }
 
-.express h3 {
-    /* margin-bottom: 30px; */
-}
-
 li {
     font-size: x-large;
+    padding-bottom: 5px;
 }
 
 .interior h3 {
     /* padding: 5px; */
-    font-size: larger;
+    font-size: x-large;
     /* background-color: orange;  */
 }
 
@@ -43,10 +47,17 @@ li {
 }
 
 #service {
-    margin: 30px 20px;
+    /* margin: 30px 20px; */
     padding: 5px;
+    text-align: center;
+    /* background-color: orange; */
 }
 
 #service h2 {
     margin: 20px;
+    /* background-color: orange; */
+}
+
+.fullprice {
+    margin-top: 30px;
 }

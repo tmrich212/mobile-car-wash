@@ -36,8 +36,10 @@ function Appt() {
                 </div>
             </div>
 
+            <div className='fullprice'>
             <h2>Complete Detail</h2>
             <h2>$450.00</h2>
+            </div>
         </div>
     )
 }
