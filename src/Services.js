@@ -15,7 +15,7 @@ function Services () {
                     <div className='interior' id="service">
                         <h2>Express Interior</h2> 
                         <ul>
-                            <li>Upholstry Shampoo   <b>$100</b></li>
+                            <li>Upholstery Shampoo   <b>$100</b></li>
                             <li>Leather Conditioning  <b>$100</b></li>
                             <li>Carpet Shampoo   <b>$100</b></li>
                             <li>Dash Console Panels   <b>$100</b></li>

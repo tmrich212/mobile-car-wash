@@ -4,8 +4,12 @@
     font-family: "Syne", serif;
     background-color: rgb(44, 91, 134);
     color: rgb(219, 218, 218);
-    padding: 3%;
+    padding: 4%;
     text-align: center;
+}
+
+.footer h2 {
+    font-size: larger;
 }
 
 .column {
