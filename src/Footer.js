@@ -14,6 +14,11 @@ function Footer () {
                 <h4>Rudy (415) 902-0339</h4>
                 <h4>camposdetailing24@gmail.com</h4>
             </div>
+            <div className='colum'>
+                <h3><b>Director of Sales</b></h3>
+                <h4>Christian Pagnia</h4>
+                <h4>christianpagnia@gmail.com</h4>
+            </div>
             <div className='column'>
                <h3><b>Insured & Bonded</b></h3>
                <h4>LIC. 1160284</h4>
