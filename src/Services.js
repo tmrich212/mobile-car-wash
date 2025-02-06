@@ -4,12 +4,11 @@ import React from 'react';
 function Services () {
     return (
         <div className='services'>
-            <h1>Services Center</h1>
+            <h1>Express Services</h1>
 
             <div className='interior express'>
-                <h2>Express Detailing</h2>
-                <h3>No Appointment Necessary! We do it while you wait.</h3> 
-                <h3 className="time">(Most services take 20 minutes)</h3>
+                <h3>(A la Carte)</h3> 
+                <h3 className="time">Most services take 30 minutes</h3>
                 
                 <div className='container'>
                     <div className='interior' id="service">

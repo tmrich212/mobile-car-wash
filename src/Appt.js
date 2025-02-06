@@ -22,7 +22,7 @@ function Appt() {
                     </div>
 
                     <div className='exterior' id="service">
-                        <h2>Express Detail</h2> 
+                        <h2>Exterior Detail</h2> 
                         <ul>
                             <li>Full Service 100% Hand Wash</li>
                             <li>Paint Cleaned & Polished</li>
@@ -38,6 +38,7 @@ function Appt() {
 
             <div className='fullprice'>
             <h2>Complete Detail</h2>
+            <h2>Interior & Exterior</h2>
             <h2>$450.00</h2>
             </div>
         </div>
