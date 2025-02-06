@@ -8,40 +8,41 @@
 
 .services {
     font-family: "Syne", serif;
+    margin: 2em;
     padding: 5% 10%;
     text-align: center;
-    /* height: auto; */
     background-color: rgb(240, 240, 240);
     letter-spacing: 1px;
 }
 
 .services h1 {
     font-weight: bolder;
-    font-size: xx-large;
+    font-size: x-large;
     text-align: center;
     text-transform: uppercase;
-    padding: 3%;
+    padding: 2%;
 }
 
 .services h2 {
     font-weight: bolder;
-    font-size: x-large;
+    font-size: larger;
     text-transform: uppercase;
 }
 
-.time {
-    margin-bottom: 20px;
+li {
+    font-size: larger;
+    padding-bottom: 5px;
+    list-style: none;
+    line-height: 2rem;
 }
 
-li {
-    font-size: x-large;
-    padding-bottom: 5px;
+.interior h2 {
+    margin: 1em;
 }
 
 .interior h3 {
-    /* padding: 5px; */
-    font-size: x-large;
-    /* background-color: orange;  */
+    font-size: larger;
+    font-weight: normal;
 }
 
 .exp-container {
@@ -51,15 +52,12 @@ li {
 }
 
 #service {
-    /* margin: 30px 20px; */
-    padding: 5px;
+    padding: .5em;
     text-align: center;
-    /* background-color: orange; */
 }
 
 #service h2 {
     margin: 20px;
-    /* background-color: orange; */
 }
 
 .fullprice {

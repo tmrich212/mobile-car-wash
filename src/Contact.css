@@ -1,16 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Bebas+Neue&family=Permanent+Marker&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
 
 .Contact {
     margin: 0;
     font-family: "Syne", serif;
-    padding: 3% 10%;
+    padding: 7% 0;
 }
 
 h2 {
     font-weight: bolder;
-    font-size: xx-large;
+    font-size: x-large;
     text-align: center;
     text-transform: uppercase;
+    margin-bottom: 1rem;
 }
 
 .btn {

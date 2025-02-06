@@ -8,7 +8,7 @@ function Header() {
                 <nav class="flex items-center justify-between p-6 lg:px-8 color-white" aria-label="Global">
                 <div class="flex lg:flex-1">
                     <a href="#blank">
-                    <h3 className='nav-logo'>CMD</h3>
+                    <h3 className='nav-logo'>CMCW</h3>
                     </a>
                    </div> 
                 </nav>

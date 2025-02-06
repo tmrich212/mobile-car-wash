@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Bebas+Neue&family=Permanent+Marker&family=Syne:wght@400..800&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
 
 .App {
   text-align: center;
@@ -27,32 +26,31 @@
   align-items: right;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(0, 0, 0, 0.5);
 }
 
 .nav-logo {
   font-weight: 800;
   font-family: "Syne", serif;
   font-size: x-large;
-  text-shadow: rgb(40, 40, 40) 2px 0 10px;
+  /* text-shadow: rgb(40, 40, 40) 2px 0 10px; */
+  text-shadow: rgb(44, 91, 134) 2px 0 10px;
   color: whitesmoke;
 }
 
 .header {
-  /* background-color:rgba(255, 255, 255, 0.6); */
   padding: 30px;
   border-radius: 10px;
 }
 
 .header h1 {
-  /* font-family: "Permanent Marker", serif; */
   font-family: "Syne", serif;
   font-weight: 800;
   font-style: normal;
   font-size: 2em;
   color: whitesmoke;
   text-align: right;
-  text-shadow: rgb(40, 40, 40) 2px 0 10px;
+  /* text-shadow: rgb(40, 40, 40) 2px 0 10px; */
+  text-shadow: rgb(44, 91, 134) 3px 0 10px;
 }
 .App-link {
   color: #61dafb;

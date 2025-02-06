@@ -7,6 +7,8 @@ import Header from './Header';
 import Services from './Services';
 import Appt from './Appt';
 import Contact from './Contact';
+import Footer from './Footer';
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -17,6 +19,7 @@ root.render(
     <Appt />
     <Services />
     <Contact />
+    <Footer />
   </React.StrictMode>
 );
 
