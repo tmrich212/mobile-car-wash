@@ -52,6 +52,16 @@
   /* text-shadow: rgb(40, 40, 40) 2px 0 10px; */
   text-shadow: rgb(44, 91, 134) 3px 0 10px;
 }
+
+.header h2 {
+  text-align: right;
+  text-shadow: rgb(44, 91, 134) 3px 0 10px;
+  color: whitesmoke;
+  font-family: "Syne", serif;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
 .App-link {
   color: #61dafb;
 }

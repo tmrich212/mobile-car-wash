@@ -14,7 +14,7 @@ function Appt() {
                         <ul>
                             <li>Full Service 100% Hand Wash</li>
                             <li>Carpets & Mats Shampooed</li>
-                            <li>Upholstery Shampoo</li>
+                            <li>Upholstery Shampooed</li>
                             <li>Leather Seats Cleaned/Treated</li>
                             <li>Door Jambs Cleaned</li>
                         </ul>
