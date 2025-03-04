@@ -52,7 +52,8 @@ li {
 }
 
 #service {
-    padding: .5em;
+    padding: 1em;
+    margin: 0 2%;
     text-align: center;
 }
 
