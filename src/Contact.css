@@ -3,15 +3,19 @@
 .Contact {
     margin: 0;
     font-family: "Syne", serif;
-    padding: 7% 0;
+    padding: 5%;
 }
 
-h2 {
+h1{
+    font-size: large;
     font-weight: bolder;
-    font-size: x-large;
-    text-align: center;
     text-transform: uppercase;
-    margin-bottom: 1rem;
+}
+
+.appt {
+    font-size: larger;
+    text-align: center;
+    margin: 1rem;
 }
 
 .btn {
