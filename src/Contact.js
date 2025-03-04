@@ -6,7 +6,7 @@ function Contact () {
     return (
         <div className='Contact'>
             <h1>Appointments</h1>
-            <h3 className='appt'>Once you have scheduled a time for services, we will reach out to confirm your appointment.</h3>
+            <h3 className='appt'>Once you have scheduled a time for services, we will reach out to confirm or reschedule your appointment if needed.</h3>
 
         <PopupWidget
         url="https://calendly.com/tmrichards295"

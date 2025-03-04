@@ -3,31 +3,20 @@
 .Contact {
     margin: 0;
     font-family: "Syne", serif;
-    padding: 5%;
+    padding: 8%;
 }
 
 h1{
-    font-size: large;
+    font-size: larger;
     font-weight: bolder;
     text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .appt {
     font-size: larger;
     text-align: center;
     margin: 1rem;
-}
-
-.btn {
-    background-color: black;
-    padding: 10px;
-    color: whitesmoke;
-}
-
-.message {
-    width: 30%;
-}
-
-input .email {
-    width: 30%;
+    font-weight: light;
+    letter-spacing: 1px;
 }
