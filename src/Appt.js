@@ -4,7 +4,7 @@ import React from 'react';
 function Appt() {
     return (
         <div className='services'>
-            <h1>Services By Appointment</h1>
+            <h1>Service Center</h1>
 
             <div className='interior express'>
                 

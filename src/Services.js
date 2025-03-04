@@ -15,7 +15,7 @@ function Services () {
                         <h2>Express Interior</h2> 
                         <ul>
                             <li>Upholstery Shampooed   <b>$100</b></li>
-                            <li>Leather Conditioned <b>$100</b></li>
+                            <li>Leather Conditioned   <b>$100</b></li>
                             <li>Carpet Shampooed   <b>$100</b></li>
                             <li>Dash, Console, Panels Cleaned   <b>$100</b></li>
                         </ul>
