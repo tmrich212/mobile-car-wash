@@ -10,11 +10,7 @@ function Footer () {
             </div>
 
             <div className='ft-container'>
-            <div className='column'>
-                <h3><b>Contact Us Directly</b></h3>
-                <h4>Antonio (415) 810-3067</h4>
-                <h4>Rudy (415) 902-0339</h4>
-            </div>
+            
             <div className='column'>
                 <h3><b>Director of Sales</b></h3>
                 <h4>Christian Pagnia</h4>
